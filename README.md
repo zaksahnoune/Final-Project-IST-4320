@@ -1,5 +1,5 @@
 What I Attempted
-Built a GUI interface with buttons for numbers (0-9) and operations (+, -, *, /)
+Built a GUI interface with buttons for numbers (0-9) and operations (+, -, *, /).
 
 Implemented a display area to show input and results
 
